@@ -1,4 +1,4 @@
-#1.Counting DNA Nucleotides
+#Counting DNA Nucleotides
 #When s is given sequence(in string type)
 #solution
 
