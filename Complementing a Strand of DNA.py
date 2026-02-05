@@ -1,4 +1,5 @@
-#3. get reverse complement of a DNA string s
+#Complementing a Strand of DNA
+#get reverse complement of a DNA string s
 #when s is given DNA sequence, solution is written below.
 s_reverse = s[::-1]
 s_reverse = s_reverse.replace("A","X")
